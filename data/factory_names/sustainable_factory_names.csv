@@ -1,0 +1,4 @@
+SOURCE,TARGET
+MAK_rame,MAK_cut
+MAK_cut,SalsaPrint
+SalsaPrint,Consumer

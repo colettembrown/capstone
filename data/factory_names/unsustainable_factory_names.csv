@@ -1,0 +1,9 @@
+SOURCE,TARGET
+Cotton,Girona_yarn
+Girona_yarn,MAK_knit
+MAK_knit,MAK_rame
+MAK_rame,TintColor
+TintColor,MAK_cut
+MAK_cut,SalsaPrint
+SalsaPrint,MCS_sew
+MCS_sew,
